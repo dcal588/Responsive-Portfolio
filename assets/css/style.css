@@ -9,6 +9,7 @@ body {
   font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color: #777777;
   line-height:30px;
+  margin-bottom:100px;
 }
 p {
   margin-bottom:10px;
@@ -102,7 +103,7 @@ aside {
   margin-top:10px;
 }
 footer {
-  position:relative;
+  position:absolute;
   left: 0;
   bottom: 0;
   height: 100px;
